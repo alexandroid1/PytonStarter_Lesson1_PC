@@ -2,7 +2,7 @@
 very simple python programs
 by https://coursehunters.net/course/itvdn-python-starter
 
-# Почему стоит изучать Python, а не Java
+# Почему стоит изучать Python ?
 
 Tensorflow написан для Python
 

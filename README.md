@@ -14,8 +14,8 @@ Python - хороший язык для врыва на Upwork
 
 Python - хороший язык для изучения NLP (Natural Language Proceccing)
 
-В Python не надо ставить ";" в конце строки
+В Python не надо ставить ";" в конце строки (в отличие от java)
 
-В Python не надо писать "public static void main(String[] args)", чтобы запустить ваш код
+В Python не надо писать "public static void main(String[] args)" (в отличие от java), чтобы запустить ваш код
 
 
